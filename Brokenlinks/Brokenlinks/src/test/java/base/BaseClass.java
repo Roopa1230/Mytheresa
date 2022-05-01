@@ -1,3 +1,11 @@
+//File: BaseClass.java
+//Description : To trigger the browser in all the environments like mozilla, Edge, chrome,.
+//Author: Roopa Alekhya
+//Date:01-05-2022
+//Company: Mytheresa
+
+
+
 package base;
 
 import java.net.MalformedURLException;
